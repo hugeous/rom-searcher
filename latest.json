@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/hugeous/rom-searcher/releases/download/v1.1.0/RomSearcher.exe",
-  "changelog": "• 중복 표시 개선\n• 다중 폴더 색상 추가",
-  "hash": "a1b2c3d4e5f67890..."
+  "version": "0.1.1",
+  "url": "https://github.com/hugeous/rom-searcher/releases/download/v0.1.1/RomSearcher.exe",
+  "changelog": "• 자동 업데이트\n• 해쉬 정리",
+  "hash": "24C1D04841A1414A55F8EB3AF3772F1A4ED6BF01BF9B3DA48DBC3DB8362CCD8E"
 }
